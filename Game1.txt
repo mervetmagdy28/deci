@@ -1,0 +1,44 @@
+Challenge 1: “1000“ pts
+Desired output: The code compares correctly between the values of “a” and “b”
+
+###
+a =+ 33
+b = 33
+if b < a:
+  print("b is greater than a")
+elif b < a:
+  print("b is less than a")
+elif a == b. 
+  print("a and b are equal")
+else:
+  print ("ABCD")
+###
+
+******************************************************************
+
+Challenge 2: “3000” pts
+Desired output: Apply changes ONLY to the first 2 lines of code so that it prints “Correct”
+
+###
+x = [5, 1, 7, 0, 3, 4, 7]
+a = x.indexof(7)
+b = 5
+if a < b:
+    print("Try Again")
+elif a > b:
+    print("Correct")
+else:
+    print("ABCD")
+###
+
+******************************************************************
+
+Challenge 3: “5000” pts
+Desired output: Print the value of “x” ONLY when x=5
+###
+i == 9 
+for x in range(2, 30, 3) 
+  i+=1
+  if i = 11:
+  print(x)  
+###
